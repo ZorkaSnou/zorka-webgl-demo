@@ -1,0 +1,16 @@
+{
+"companyName": "Artyom",
+"productName": "Zorka Snou",
+"productVersion": "0.05",
+"dataUrl": "ZorkaWebDemo005Build.data.unityweb",
+"wasmCodeUrl": "ZorkaWebDemo005Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "ZorkaWebDemo005Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.9f1"
+}
